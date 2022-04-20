@@ -1,4 +1,4 @@
-# NFT 최대 마켓 OpenSea데이터 분석 및 악용사례 분류 기법
+## NFT 최대 마켓 OpenSea 데이터 분석 및 악용사례 분류 기법
  This repository is based on paper <b>NFT Largest Market OpenSea Data Analysis and Abuse Classification Technique</b>
 
 ## Abstract
