@@ -25,9 +25,9 @@ Therefore, in this paper, we would like to analyze the NFT and Metaverse markets
 
 
 <p align="center">
-  <img src="images/data_len.png" width="600">
-  <img src="images/data_numsale.png" width="600">
-  <img src="images/data_perclass.png" width="600">
+  <img src="images/data_len.png" width="300"></br>
+  <img src="images/data_numsale.png" width="300"></br>
+  <img src="images/data_perclass.png" width="300">
 </p>
 
 
